@@ -4,7 +4,9 @@ I'm **nagibatirowanie**, a Minecraft plugin developer from Ukraine
 
 ## 🧱 About Me
 
-I create high-performance Minecraft plugins with a focus on clean architecture, custom features, and compatibility across major server platforms.
+I'm currently learning how to develop high-performance and well-structured Minecraft plugins.  
+As a beginner in plugin development, I'm focused on improving my skills and building useful tools for Minecraft servers.
+
 
 ## 💡 Tech Stack
 
